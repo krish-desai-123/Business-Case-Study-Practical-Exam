@@ -63,10 +63,10 @@ To turn these losses into loyalty, the following strategies are proposed based o
 ---
 
 ## 👨‍💻 Author
-**[Your Name]**
+**Krish Desai**
 * College Student & Aspiring Data Analyst
 * Passionate about Python, SQL, and Software Engineering.
 
 ---
 
-*This project was developed for a college minor/major project to demonstrate data analysis and business logic application.*
+
